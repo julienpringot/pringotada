@@ -10,3 +10,5 @@ Install the TypeScript compiler
 	https://code.visualstudio.com/docs/languages/typescript
 Install git
 	https://git-scm.com/download/win
+
+TEST
